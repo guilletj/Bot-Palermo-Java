@@ -2,7 +2,7 @@
 
 One of the results of my boredom is this.
 
-A Discord bor coded using [Discord JDA](https://github.com/DV8FromTheWorld/JDA) for my friends' server, Inspired on Martin Barroti a.k.a Palermo from Money Heist (La Casa de Papel).
+A Discord bot coded using [Discord JDA](https://github.com/DV8FromTheWorld/JDA) for my friends' server, Inspired on Martin Barroti a.k.a Palermo from Money Heist (La Casa de Papel).
 
 I keep this here just for "historical purpose", so no updates or support will be provided.
 
